@@ -1,3 +1,5 @@
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
+
 ## Hi there 👋
 
 <!--
